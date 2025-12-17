@@ -1,0 +1,14 @@
+cd ~
+mkdir rysev
+
+cd rysev
+
+mkdir 1
+mkdir 2
+mkdir 3
+mkdir 4
+
+cd 1
+
+mkdir 2
+mkdir 3
