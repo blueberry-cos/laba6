@@ -1,0 +1,5 @@
+cp /
+cp /etc/group ~/rysev/1
+cp /etc/group ~/rysev/1/2
+cp /etc/group ~/rysev/1/3
+cp /etc/group ~/rysev/4
