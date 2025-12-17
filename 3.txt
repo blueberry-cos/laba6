@@ -1,0 +1,6 @@
+~$ file /bin/nano
+~$ file /bin/hd
+~$ file /bin/dev
+~$ file /dev/hpet
+~$ file /dev/cuse
+~$ file /dev/fuse
