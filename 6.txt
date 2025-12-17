@@ -1,0 +1,4 @@
+cd ~/rysev/1/
+ln group group_hardlink
+ln -s group group_symlink
+ls -li
